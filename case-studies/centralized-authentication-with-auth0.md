@@ -1,4 +1,6 @@
-# Background/Context
+# Centralizing Multiple Authentication Systems into a Single Auth0 Ecosystem
+
+## Background/Context
 
 The organization operated multiple products across different regions and customer segments. While these products belonged to the same organizational ecosystem, they had evolved independently over time. As a result, authentication was never designed as a shared concern.
 
@@ -162,6 +164,14 @@ Perhaps most importantly, authentication stopped being a constant source of fric
 
 
 -Centralized identity simplifies not just engineering, but also support and sales workflows
+
+## Technology Used
+-Asp.net Core, Web API
+-Auth0
+-.NET Background Services
+-PKCE (Proof Key for Code Exchange) with OAuth 2.0 and OpenID Connect (OIDC) is the recommended standard for modern Angular Single Page Applications (SPAs)
+-Angular 
+-Terraform
 
 ## Final Reflection
 
