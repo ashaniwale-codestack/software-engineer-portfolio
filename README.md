@@ -10,12 +10,13 @@ building, and maintaining backend, frontend and cloud systems.
 - CI/CD & DevOps, Github Actions
 - System Design & Architecture
 - Authenticatoin: Auth0, OAuth2.0, OIDC, AD
+- AI, Prompt Engineering, Github CoPilot
 
 ## Portfolio Contents
 
 ### 📁 Case Studies
-- SQL Server Performance Optimization
-- Legacy Application Modernization
+- Centralized Authentication with Auth0
+- Event driven processing with Kafka
 
 ### 📁 System Design
 
@@ -27,7 +28,7 @@ building, and maintaining backend, frontend and cloud systems.
 
 
 ## Tools & Technologies
-.NET | ASP.NET Core | Web API | SQL Server | Azure | Aws | Docker | GitHub Actions | AKS | Kafka/event-driven system | Message broker system | Auth0 | OAuth 2.0 
+.NET | ASP.NET Core | Web API | SQL Server | Azure | Aws | Docker | GitHub Actions | GitHub CoPilot | AKS | Kafka/event-driven system | Message broker system | Auth0 | OAuth 2.0 
 
 📍 Open to opportunities in Germany
 
