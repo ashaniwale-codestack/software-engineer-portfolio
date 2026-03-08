@@ -1,16 +1,17 @@
 # Software Engineer Portfolio – Asha Niwale
 
-Senior Software Engineer with 11+ years of experience in designing,
+Senior Software Engineer with 8+ years of experience in designing,
 building, and maintaining backend, frontend and cloud systems.
 
 ## Focus Areas
 - ASP.NET Core & Web APIs
 - SQL Server & Performance Optimization
-- Cloud (Azure, AWS)
-- CI/CD & DevOps, Github Actions
+- Cloud (Azure, AWS), Azure Kubernetes Service (AKS)
+- CI/CD & DevOps, Github Actions,Teamcity
 - System Design & Architecture
-- Authenticatoin: Auth0, OAuth2.0, OIDC, AD
+- Authentication: Auth0, OAuth2.0, OIDC, Azure AD, OWASP
 - AI, Prompt Engineering, Github CoPilot
+- Logging - Serilog, NLog, Log4Net, Azure Application insight, Grafana, 
 
 ## Portfolio Contents
 
@@ -28,7 +29,5 @@ building, and maintaining backend, frontend and cloud systems.
 
 
 ## Tools & Technologies
-.NET | ASP.NET Core | Web API | SQL Server | Azure | Aws | Docker | GitHub Actions | GitHub CoPilot | AKS | Kafka/event-driven system | Message broker system | Auth0 | OAuth 2.0 
-
-📍 Open to opportunities in Germany
+.NET | ASP.NET Core | Web API | SQL Server | Azure | Aws | Docker | GitHub Actions | GitHub CoPilot | AKS | Kafka/event-driven system | Message broker system | Auth0 | OAuth 2.0 | MVC | Phonegap/Cordova | AngularJs | React | Python | Teamcity | PostgreSQL
 
