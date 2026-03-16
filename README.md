@@ -52,14 +52,12 @@ One of my key strengths lies in effectively collaborating with clients and cross
 - Email:  ashniwale248@gmail.com
 
 -------------------------------------------------------------------
-⭐ If you like my work, feel free to explore my repositories!
+⭐ If you like my work, feel free to explore my repositories & portfolio !
 
 ### 📁 Case Studies
 - Centralized Authentication with Auth0
 - Event driven processing with Kafka
 
 -------------------------------------------------------------------------------------
-
-## Tools & Technologies
-.NET | ASP.NET Core | Web API | SQL Server | Azure | Aws | Docker | GitHub Actions | GitHub CoPilot | AKS | Kafka/event-driven system | Message broker system | Auth0 | OAuth 2.0 | MVC | Phonegap/Cordova | AngularJs | React | Python | Teamcity | PostgreSQL
+Auth0 | OAuth 2.0 | MVC | Phonegap/Cordova | AngularJs | React | Python | Teamcity | PostgreSQL
 
