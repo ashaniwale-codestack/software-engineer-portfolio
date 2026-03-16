@@ -1,7 +1,9 @@
 # Asha Niwale
+
 🚀 9+ Years Experience in Enterprise Application Development  
 Lead Full Stack Developer | Senior Backend Engineer | .NET (Core & MVC) & Cloud Specialist | Microservices Architect | Associate Architect | AI Enthusiastic | Microsoft Technology Practitioner | Frontend (Angular/React) | TypeScript | Python | Azure | AWS | Microservices | SQL (PostgreSQL/MS SQL Server | Devops 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------
 
 ## 🚀 About Me
 
@@ -13,7 +15,7 @@ I am a continuous learner with a growing focus on Artificial Intelligence and de
 
 One of my key strengths lies in effectively collaborating with clients and cross-functional teams to solve complex technical challenges. By understanding business needs and translating them into robust technical solutions, I help drive successful project outcomes. I am passionate about leveraging technology to build impactful solutions and continuously improving systems, processes, and team productivity.
 
-============================================================================================================================================================
+-------------------------------------------------------------------
 
 ## 🚀 Skills & Expertise
 
@@ -27,7 +29,7 @@ One of my key strengths lies in effectively collaborating with clients and cross
 | **Security** | ![OAuth2](https://img.shields.io/badge/OAuth2-blue) ![JWT](https://img.shields.io/badge/JWT-black) ![SSO](https://img.shields.io/badge/SSO-green) ![OpenID](https://img.shields.io/badge/OpenID%20Connect-orange) ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat&logo=auth0&logoColor=white) |
 | **Logging & Monitoring** | ![Serilog](https://img.shields.io/badge/Serilog-purple) ![NLog](https://img.shields.io/badge/NLog-blue) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
 
-=============================================================================
+-------------------------------------------------------------------
 
 ## 🤝 Connect With Me
 
