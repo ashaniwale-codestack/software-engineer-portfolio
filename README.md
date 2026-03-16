@@ -31,6 +31,21 @@ One of my key strengths lies in effectively collaborating with clients and cross
 
 -------------------------------------------------------------------
 
+## 🧰 Tools & Platforms
+
+| Category | Tools |
+|----------|------|
+| **Development Tools** | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **CI/CD & DevOps** | ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
+| **Containerization** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white) |
+| **API Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| **Monitoring & Observability** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
+| **Project Management** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Azure Boards](https://img.shields.io/badge/Azure%20Boards-0078D7?style=flat&logo=azuredevops&logoColor=white) |
+
+--------------------------------------------------------------------------
+
 ## 🤝 Connect With Me
 
 - LinkedIn: [https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/ashaniwale/)
