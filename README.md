@@ -1,4 +1,4 @@
-👋 Hi, I'm Asha
+👋 # Hi, I'm Asha
 Senior Software Engineer specializing in building scalable backend systems, microservices, and AI-powered applications.
 
 I focus on:
