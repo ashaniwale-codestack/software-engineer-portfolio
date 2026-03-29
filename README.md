@@ -1,4 +1,46 @@
-# Asha Niwale
+👋 Hi, I'm Asha
+Senior Software Engineer specializing in building scalable backend systems, microservices, and AI-powered applications.
+
+I focus on:
+
+Designing distributed systems
+Integrating LLMs (Ollama, OpenAI)
+Building production-ready APIs and platforms
+
+--------------------------------
+
+🔥 Featured Projects
+
+🤖 AI Assistant Platform (LLM SaaS)
+Multi-model AI system (Ollama + OpenAI)
+Full-stack app (React + Node)
+Designed for scalability and extensibility
+Supports chat history and backend orchestration
+
+⚙️ Event-Driven System (Microservices)
+Simulated distributed system with async communication
+Focus on reliability, retries, and decoupling
+
+🔐 Encryption Tool
+File encryption/decryption using AES
+Focus on security and performance
+
+--------------------------------
+
+🧠 What I Care About
+Clean architecture and separation of concerns
+Scalable and maintainable backend systems
+Performance and reliability
+Practical AI integration in real-world systems
+
+---------------------------------
+
+🚧 Currently Working On
+Building a multi-LLM AI platform
+Exploring streaming responses and real-time AI UX
+Improving system design and distributed architectures
+
+--------------------------------
 
 🚀 9+ Years Experience in Enterprise Application Development  
 Lead Full Stack Developer | Senior Backend Engineer | .NET (Core & MVC) & Cloud Specialist | Microservices Architect | Associate Architect | AI Enthusiastic | Microsoft Technology Practitioner | Frontend (Angular/React) | TypeScript | Python | Azure | AWS | Microservices | SQL (PostgreSQL/MS SQL Server | Devops 
