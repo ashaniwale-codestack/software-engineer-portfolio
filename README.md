@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asha
 
-Senior Software Engineer specializing in **scalable backend systems, microservices, and AI-powered applications**.
+Technical Expert, specializing in **scalable backend systems, microservices, and AI-powered applications**.
 
 ---
 
@@ -9,6 +9,7 @@ Senior Software Engineer specializing in **scalable backend systems, microservic
 * Designing distributed systems & microservices architectures
 * Integrating LLMs (Ollama, OpenAI) into real-world applications
 * Building production-ready APIs and scalable platforms
+
 
 ---
 
